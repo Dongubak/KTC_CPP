@@ -1,5 +1,4 @@
 #include <iostream>
-
 using namespace std;
 
 int main() {
@@ -10,7 +9,7 @@ int main() {
     cout << "사용한 연료량을 리터 단위로 입력하세요: ";
     cin >> liters;
 
-    double lPer100Km = (liters / kilometers) * 100;
-    cout << "차량의 연비는 " << lPer100Km << " L/100km 입니다." << endl;
+    double liters_Per_100Km = (liters / kilometers) * 100;
+    cout << "차량의 연비는 " << liters_Per_100Km << " L/100km 입니다." << endl;
     return 0;
 }
