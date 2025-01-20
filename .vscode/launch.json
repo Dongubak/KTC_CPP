@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/yja/Documents/동아리/KTC_CPP/SY",
+      "program": "/Users/yja/Documents/동아리/KTC_CPP/SY/build/Debug/outDebug"
+    }
+  ]
+}
