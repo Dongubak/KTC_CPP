@@ -10,7 +10,8 @@ using namespace std;
 
 int main() 
 {
-    array<double, 3> times; // 배열 객체 생성 (3개의 기록 저장)
+    array<double, 3> times; // 배열 객체 생성 (3개의 기록 저장) 
+    //템플릿 < >
     // 크기가 3인 double형 배열
 
     // 사용자로부터 3번의 기록 입력받기

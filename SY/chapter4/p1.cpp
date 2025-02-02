@@ -1,5 +1,5 @@
 /*
-다음 출력 예제에 나타난 것처럼 정보를 요청하고 표시하는 C++ 프로그램을 작성하시오
+다음 출력 예제에 나타난 것처럼 이름, 성, 등급, 나이를 요청하고 표시하는 C++ 프로그램을 작성하시오
 
 What is your first name? Betty Sue
 What is your last name? Yewe

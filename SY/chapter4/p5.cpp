@@ -15,7 +15,7 @@ struct CandyBar
     string brand;   // 캔디바의 브랜드 이름
     double weight;  // 캔디바의 무게
     int calories;   // 캔디바의 칼로리
-};
+}; //각 요소는 필드라고 부름
 
 int main() 
 {
