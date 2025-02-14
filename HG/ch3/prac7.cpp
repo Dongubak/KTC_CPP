@@ -12,7 +12,8 @@ int main() {
     cin >> litersPer100Km;
 
     double milesPerGallon = KM_TO_MILES / (litersPer100Km / LITERS_PER_GALLON);
-
+//                                km            litter               gallon
+//                                miles          km                  litter
     cout << litersPer100Km << " L/100km는 약 "
         << milesPerGallon << " MPG 입니다." << endl;
 
