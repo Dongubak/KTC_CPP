@@ -52,9 +52,9 @@ int main()
     }
 
     // 결과 출력
-    cout << v << "은 모음으로 시작함\n";
-    cout << c << "은 자음으로 시작함\n";
-    cout << others << "은 그 외\n";
+    cout << v << "개가 모음으로 시작함\n";
+    cout << c << "개가 자음으로 시작함\n";
+    cout << others << "개는 그 외\n";
 
     return 0;
 }
